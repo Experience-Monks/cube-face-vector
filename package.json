@@ -1,0 +1,41 @@
+{
+  "name": "cube-face-vector",
+  "version": "1.0.0",
+  "description": "gets a unit vector for a given cubemap face",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "cube",
+    "map",
+    "cubemap",
+    "gl",
+    "glsl",
+    "stackgl",
+    "gl",
+    "webgl",
+    "dds",
+    "face",
+    "direction"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/cube-face-vector.git"
+  },
+  "homepage": "https://github.com/Jam3/cube-face-vector",
+  "bugs": {
+    "url": "https://github.com/Jam3/cube-face-vector/issues"
+  }
+}
